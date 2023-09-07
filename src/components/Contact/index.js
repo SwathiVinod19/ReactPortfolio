@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// Here we import a helper function that will check if the email is valid
+
 import { validateEmail } from "../../utils/helpers";
 
 function Contact() {
@@ -44,7 +44,7 @@ function Contact() {
       return;
     }
 
-    // If everything goes according to plan, we want to clear out the input after a successful submission.
+
     setUserName("");
     setMessage("");
     setEmail("");
