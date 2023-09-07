@@ -2,7 +2,7 @@
 A simple professional portfolio that guides you through a curated collection of my projects, assignments and skills as a web developer.
 
 # ReactPortfolio
-My professional portfolio made using ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![JSX Badge](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [![Tailwind CSS Badge](https://tailwindcss-badge.vercel.app/api/your-badge)](https://your-link) [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+My professional portfolio made using ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![JSX Badge](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [![Tailwind CSS Badge](https://tailwindcss-badge.vercel.app/api/reactportfolio)] [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 <br>
