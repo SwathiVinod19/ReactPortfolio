@@ -91,7 +91,7 @@ header nav ul {
 
 }
 
-/* button styling */
+
 
 header nav ul li a {
   padding: 10px 15px;
@@ -122,30 +122,14 @@ header nav ul li a:hover {
   /* height: 10% */
 }
 
-/* Hero Style Start */
-/* .hero {
-  background-image: url("../src/assets/cover/5330558.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  background-attachment: fixed;
-  background-position: 80%;
 
-} */
 
-/* Hero Style End */
 
-/* hero-cta start */
 .hero-cta {
   width: 100%;
   text-align: center;
   margin: 1.5%;
-  /* color: #fff;
-  font-size: 14px;
-  line-height: 1.2; */
+
 }
 
 .hero-cta h2 {
@@ -160,10 +144,7 @@ header nav ul li a:hover {
   color: darkslategray;
 }
 
-/* hero-cta end */
 
-
-/*Intro*/
 .intro p {
   line-height: 1.7;
   color: darkslategray;
@@ -593,7 +574,7 @@ label {
   justify-content: center;
 }
 
-/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+
 
 @media screen and (max-width: 980px) {
   header {

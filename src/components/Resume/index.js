@@ -46,7 +46,7 @@ function Resume() {
         </div>
 
         <div className="article column2">
-          {/* <p><img src="./assets/images/streamline-icon-ai-robot-waiter@48x48.PNG"></p> */}
+          
 
           <p className="column-title">Back-End Technologies</p>
           <p className="column-text">
@@ -63,7 +63,7 @@ function Resume() {
           </p>
         </div>
         <div className="article column3">
-          {/* <p><img src="./assets/images/streamline-icon-soft-drinks-glass-ice@48x48.PNG"></p> */}
+          
           <p className="column-title">Framework & Data Management</p>
           <p className="column-text">
             <ul>
