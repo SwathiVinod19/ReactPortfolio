@@ -37,9 +37,14 @@ To install application locally, follow these steps:
 Deployed page link : https://swathivinod19.github.io/ReactPortfolio/
 
 ## Screenshots
+![swa-portfolio-one](https://github.com/SwathiVinod19/ReactPortfolio/assets/129353324/218415f1-4409-469e-bbe5-fac2a5fcee85)
 
 
 
+![swa-portfolio-three](https://github.com/SwathiVinod19/ReactPortfolio/assets/129353324/49cee5db-2e59-4de9-b1f9-77b794bb5c47)
+
+
+![swa-portfolio-two](https://github.com/SwathiVinod19/ReactPortfolio/assets/129353324/8cad9da8-b341-4bb4-8d38-0461ed29f9c1)
 
 
 ## Test
