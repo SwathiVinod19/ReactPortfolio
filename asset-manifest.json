@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.35dc68d5.css",
+    "main.js": "/ReactPortfolio/static/js/main.ca57067d.js",
+    "static/js/787.e29dc422.chunk.js": "/ReactPortfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/swaPic.jpg": "/ReactPortfolio/static/media/swaPic.5736ae9031ff00886eaa.jpg",
+    "static/media/realtyReach.png": "/ReactPortfolio/static/media/realtyReach.1bbc17a806411e3dbea0.png",
+    "static/media/schoolMaster.png": "/ReactPortfolio/static/media/schoolMaster.52a721d89f7cbfa7905f.png",
+    "static/media/jsQuiz.png": "/ReactPortfolio/static/media/jsQuiz.5d97b7986981deb71555.png",
+    "static/media/SwathiPortfolio.pdf": "/ReactPortfolio/static/media/SwathiPortfolio.0ef7d23f7d0b218f5ef1.pdf",
+    "static/media/portfolioCover.jpg": "/ReactPortfolio/static/media/portfolioCover.1a4a7ee07fc9434a3c08.jpg",
+    "static/media/techBlog.png": "/ReactPortfolio/static/media/techBlog.a78d433d874c3754bb6e.png",
+    "static/media/wassupWeather.png": "/ReactPortfolio/static/media/wassupWeather.848aa1b2a6904bcb6675.png",
+    "static/media/dailyCalendar.png": "/ReactPortfolio/static/media/dailyCalendar.6546be15ff12897bbbe1.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.35dc68d5.css.map": "/ReactPortfolio/static/css/main.35dc68d5.css.map",
+    "main.ca57067d.js.map": "/ReactPortfolio/static/js/main.ca57067d.js.map",
+    "787.e29dc422.chunk.js.map": "/ReactPortfolio/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35dc68d5.css",
+    "static/js/main.ca57067d.js"
+  ]
+}
